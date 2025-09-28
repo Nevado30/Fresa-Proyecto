@@ -2,7 +2,7 @@
 Este proyecto corresponde al curso **Percepción Computacional** 
 El objetivo es aplicar técnicas de preprocesamiento de imágenes y preparar los datos para el entrenamiento de modelos que reconozcan las diferentes etapas de crecimiento de la fresa.
 
-## 📦 Dataset
+## 📦 Dataset 
 
 ### Por motivos de peso, **el dataset original no está incluido en este repositorio**.  
 ### Debe descargarse desde Kaggle:
