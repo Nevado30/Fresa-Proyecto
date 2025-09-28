@@ -2,7 +2,18 @@
 Este proyecto corresponde al curso **Percepción Computacional** 
 El objetivo es aplicar técnicas de preprocesamiento de imágenes y preparar los datos para el entrenamiento de modelos que reconozcan las diferentes etapas de crecimiento de la fresa.
 
+## 📦 Dataset
+
+### Por motivos de peso, **el dataset original no está incluido en este repositorio**.  
+### Debe descargarse desde Kaggle:
+### [Strawberry Growth Stage Dataset](https://www.kaggle.com/datasets/kotameyan/strawberry-growth-stage-datasets)
+### Una vez descargado, ubica las carpetas en la siguiente estructura:
+### data/raw/images/
+### data/raw/labels/
+### De esta forma, los scripts podrán ejecutarse sin cambios.
+
 ## Clonar el repositorio  
+```markdown
 
 ```bash
 git clone https://github.com/Nevado30/Fresa-Proyecto.git
