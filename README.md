@@ -10,15 +10,13 @@ El objetivo es aplicar técnicas de preprocesamiento de imágenes y preparar los
 ### Una vez descargado, ubica las carpetas en la siguiente estructura:
 ### data/raw/images/
 ### data/raw/labels/
-### De esta forma, los scripts podrán ejecutarse sin cambios.
-```markdown
-## Clonar el repositorio  
+### De esta forma los scripts podrán ejecutarse sin cambios
 
+## Clonar el repositorio  
 ```bash
 git clone https://github.com/Nevado30/Fresa-Proyecto.git
 cd Fresa-Proyecto
 ```
-```markdown
 ## Instalación y configuración
 ```bash
 # 1. Crear entorno virtual
