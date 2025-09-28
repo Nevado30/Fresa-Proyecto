@@ -18,3 +18,10 @@ Thumbs.db
 # Carpetas de salida
 outputs/
 data/raw/
+
+# Archivos JSON generados
+data/processed/coco_out/annotations_limpio.json
+data/processed/coco_out/annotations_640.json
+
+# Imágenes redimensionadas
+data/raw/images_640/
